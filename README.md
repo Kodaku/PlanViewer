@@ -48,6 +48,8 @@ You can see a json file going on "localhost:8000/data"
 
 Now you can open in the folder the file index.html and see the resulting output as a series of red, green and blue boxes if you've launched a planner or as a black screen if don't have launched any before
 
+## Other Resources on how to use it
+
 If this don't make sense to you don't worry i'll make a small tutorial on YouTube on how to use it or you can email me at:
 
 sugaku.no.coding@gmail.com
