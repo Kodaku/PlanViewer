@@ -3,7 +3,7 @@ This small tool visualize a PDDL plan written on a text file called plan.txt
 
 Make sure you've downloaded a planner source code like Metric-FF and have runned it in VSCode using the jan-dolejsi extension for PDDL and have set the planner not as the default but using the Metric-FF
 
-Here's how to use it in Linux or Mac:
+## Use in Linux or Mac
 
 Download this project as a zip or tgz file from his repository
 
