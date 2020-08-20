@@ -1,5 +1,6 @@
 # PlanViewer
-This small tool visualize a pddl plan written on a text file called plan.txt
+This small tool visualize a PDDL plan written on a text file called plan.txt
+Make sure you've download a planner source code like Metric-FF and have runned it in VSCode using the jan-dolejsi extension for PDDL and have set the planner not as the default but using the Metric-FF
 
 Here's how to use it in Linux or Mac:
 
@@ -46,3 +47,6 @@ You can see a json file going on "localhost:8000/data"
 
 Now you can open in the folder the file index.html and see the resulting output as a series of red, green and blue boxes if you've launched a planner or as a black screen if don't have launched any before
 
+If this don't make sense to you don't worry i'll make a small tutorial on YouTube on how to use it or you can email me at:
+
+sugaku.no.coding@gmail.com
