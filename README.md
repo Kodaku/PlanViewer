@@ -10,8 +10,6 @@ Download this project as a zip or tgz file from his repository
 Extract the folder inside it
 
 Move the folder in var/tmp if you're on Linux or in Mac
-If you're a Windows user, I'm sorry this won't work...but don't worry a Windows version is coming
-
 Now open the folder planner and launch the terminal inside this folder
 
 Type this command to open VSCode:
